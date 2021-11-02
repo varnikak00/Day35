@@ -1,0 +1,5 @@
+D:\Day35\AddressBookWithLinq3\obj\Debug\netcoreapp3.1\AddressBookWithLinq3.csproj.AssemblyReference.cache
+D:\Day35\AddressBookWithLinq3\obj\Debug\netcoreapp3.1\AddressBookWithLinq3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day35\AddressBookWithLinq3\obj\Debug\netcoreapp3.1\AddressBookWithLinq3.AssemblyInfoInputs.cache
+D:\Day35\AddressBookWithLinq3\obj\Debug\netcoreapp3.1\AddressBookWithLinq3.AssemblyInfo.cs
+D:\Day35\AddressBookWithLinq3\obj\Debug\netcoreapp3.1\AddressBookWithLinq3.csproj.CoreCompileInputs.cache

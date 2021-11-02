@@ -1,0 +1,14 @@
+D:\Day35\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.exe
+D:\Day35\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.deps.json
+D:\Day35\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.runtimeconfig.json
+D:\Day35\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.runtimeconfig.dev.json
+D:\Day35\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.dll
+D:\Day35\AddressBookWithLinq\bin\Debug\netcoreapp3.1\AddressBookWithLinq.pdb
+D:\Day35\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.csproj.AssemblyReference.cache
+D:\Day35\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day35\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.AssemblyInfoInputs.cache
+D:\Day35\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.AssemblyInfo.cs
+D:\Day35\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.csproj.CoreCompileInputs.cache
+D:\Day35\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.dll
+D:\Day35\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.pdb
+D:\Day35\AddressBookWithLinq\obj\Debug\netcoreapp3.1\AddressBookWithLinq.genruntimeconfig.cache
