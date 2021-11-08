@@ -1,0 +1,14 @@
+D:\Day35\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.exe
+D:\Day35\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.deps.json
+D:\Day35\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.runtimeconfig.json
+D:\Day35\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.runtimeconfig.dev.json
+D:\Day35\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.dll
+D:\Day35\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.pdb
+D:\Day35\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.csproj.AssemblyReference.cache
+D:\Day35\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day35\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.AssemblyInfoInputs.cache
+D:\Day35\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.AssemblyInfo.cs
+D:\Day35\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.csproj.CoreCompileInputs.cache
+D:\Day35\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.dll
+D:\Day35\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.pdb
+D:\Day35\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.genruntimeconfig.cache
